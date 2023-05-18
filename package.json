@@ -1,0 +1,10 @@
+{
+    "name": "backlinks",
+    "version": "1.0.0",
+    "description": "A plugin for Standard Notes that displays backlinks for the current note",
+    "main": "index.js",
+    "dependencies": {
+      "standard-notes-api": "^2.0.0"
+    }
+  }
+  
